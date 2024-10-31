@@ -1,0 +1,62 @@
+
+.widgets-php .rlw-columns-3 {
+	overflow: hidden;
+	float: left;
+	width: 31%;
+	margin-right: 3.5%;
+}
+
+.widgets-php .rlw-columns-3 select.widefat {
+	width: 98.5%;
+}
+
+.widgets-php .rlw-column-last {
+	float: right;
+	margin-right: 0;
+}
+
+.widgets-php .rlw-columns-3 label {
+	font-size: 11px;
+}
+
+.widgets-php .rlw-columns-3 p small,
+.widgets-php .rlw-bottom p small {
+	color: #777;
+	font-style: italic;
+}
+
+.small-input {
+	width: 30%;
+}
+
+.rlw-block {
+	display: block;
+}
+
+.rlw-multiple-check-form {
+	margin: 1em 0;
+}
+
+.rlw-multiple-check-form ul {
+	border: 1px solid #eee;
+	padding: 10px;
+	max-height: 110px;
+	overflow: auto;
+	margin-top: 0;
+}
+
+.rlw-multiple-check-form ul li:last-child {
+	margin-bottom: 0;
+}
+
+.widget-control-actions {
+    clear:both;
+}
+
+.disabled, .disabled label, .disabled input {
+    color: #DDD;
+}
+
+.disabled input {
+    background-color: #EEE;
+}
